@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="zzz" size="1.000000 1.000000" />
+    <ImageTarget name="remi" size="1.000000 1.000000" />
+    <ImageTarget name="liebres" size="1.000000 1.000000" />
+    <ImageTarget name="zzzimagendisco" size="1.000000 1.000000" />
+    <ImageTarget name="comealive" size="1.000000 1.000000" />
     <ImageTarget name="astraphoto" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
